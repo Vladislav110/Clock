@@ -1,0 +1,13 @@
+.clocks {
+    display: grid;
+    justify-content: center;
+}
+
+.view {
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    margin-top: 20px;
+    border: solid 2px;
+    background-color: #61dafb;
+}
